@@ -1,7 +1,7 @@
 export const ABOUT = {
     APP_NAME: 'Serplastin',
     PHONE: [
-        '3172250127',
+        '3197296043',
     ],
     EMAIL: [
         'serinplast@yahoo.es',
@@ -14,7 +14,7 @@ export const ABOUT = {
 export const SOCIAL = {
     INSTAGRAM: 'https://www.instagram.com/serplastin',
     FACEBOOK: 'https://www.facebook.com/profile.php?id=100054491437865&mibextid=LQQJ4d',
-    WHATSAPP: 'https://wa.me/+573172250127',
+    WHATSAPP: 'https://wa.me/+573197296043',
 }
 export const DATA_SEO = {
     DOMAIN: 'https://serplastin.com/',
